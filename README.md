@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ##### Languages and Tools
 ![Your Icon](cplusplus.svg)
 <img src="cplusplus.svg" alt="Your Icon">
-
+-->
 
