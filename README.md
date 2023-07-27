@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 ## I am Shinie Aggarwal
-# Computer Science student at Thapar University
+#### Computer Science student at Thapar University
 
 <!--
 **shinieaggarwal72/shinieaggarwal72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
