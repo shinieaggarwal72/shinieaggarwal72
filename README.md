@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shinie Aggarwal</h1>
+<h1 align="center">Hi 👋, I'm <kbd>Shinie Aggarwal</kbd></h1>
 <h3 align="center">computer science student</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
