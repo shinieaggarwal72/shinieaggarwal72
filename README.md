@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/shinieaggarwal" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" title="LinkedIn" alt="https://www.linkedin.com/in/shinieaggarwal/" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/22292049/shinie-aggarwal" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg" title="Stack Overflow" alt="shinie-aggarwal" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/shinie_aggarwal" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" title="Instagram" alt="shinie_aggarwal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
