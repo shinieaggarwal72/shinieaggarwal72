@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shinie Aggarwal</h1>
-<h3 align="center">computer science student</h3>
+<h3 align="center">Final year Computer Science student</h3>
 
-- 🌱 I’m currently learning **Computer Vision**
+- I’m currently learning **Computer Vision**
 
-- 📫 How to reach me **shinieaggarwal72@gmail.com**
+- How to reach me **shinieaggarwal72@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
