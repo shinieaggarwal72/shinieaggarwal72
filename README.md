@@ -8,7 +8,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shinieaggarwal" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png" title="LinkedIn" alt="https://www.linkedin.com/in/shinieaggarwal/" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<a href="mailto:shinieaggarwal72@gmail.com">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" title="Email" alt="Email" height="30" width="30" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
