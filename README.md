@@ -12,7 +12,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none; border: none; outline: none;"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" title="C" alt="c" width="40" height="40"/> </a> &nbsp;&nbsp;
+<p align="left"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" title="C" alt="c" width="40" height="40"/> &nbsp;&nbsp;
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="text-decoration: none; border: none; outline: none;"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" alt="cplusplus" width="40" height="40"/> </a> &nbsp;&nbsp; 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="HTML5" alt="html5" width="40" height="40"/> </a>&nbsp;&nbsp; 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="CSS3" alt="css3" width="40" height="40"/> </a>&nbsp;&nbsp;
