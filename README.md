@@ -21,6 +21,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="CSS3" alt="css3" width="40" height="40"/> &nbsp;&nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/JavaScript_shield_logo_%28no_text%29.svg" title="JavaScript" alt="javascript" width="40" height="40"/> &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" title="Node.js" alt="nodejs" width="40" height="40"/> &nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" title="Electron.js" width="40 height="40"/> &nbsp;&nbsp;
 <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="Python" alt="python" width="40" height="40"/> &nbsp;&nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="Pandas" alt="pandas" width="40" height="40"/>&nbsp; &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit learn" alt="scikit_learn" width="40" height="40"/> &nbsp;&nbsp; 
