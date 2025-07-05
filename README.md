@@ -22,11 +22,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/JavaScript_shield_logo_%28no_text%29.svg" title="JavaScript" alt="javascript" width="40" height="40"/> &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" title="Node.js" alt="nodejs" width="40" height="40"/> &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" title="Electron.js" width="40 height="40"/> &nbsp;&nbsp;
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="Python" alt="python" width="40" height="40"/> &nbsp; 
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="Python" alt="python" width="40" height="40"/> &nbsp;&nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="Pandas" alt="pandas" width="40" height="40"/>&nbsp; &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit learn" alt="scikit_learn" width="40" height="40"/> &nbsp;&nbsp; 
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="seaborn" width="40" height="40"/> &nbsp;&nbsp; 
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="OpenCV" alt="opencv" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="OpenCV" alt="opencv" width="40" height="40"/>&nbsp;&nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Pytorch-svgrepo-com.svg" title="PyTorch" alt="pytorch" width="40" height="40"/> &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" title="Docker" alt='docker' width="40" height="40"/> &nbsp;&nbsp;
 </p>
