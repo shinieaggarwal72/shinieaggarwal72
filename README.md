@@ -28,6 +28,7 @@
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="seaborn" width="40" height="40"/> &nbsp;&nbsp; 
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="OpenCV" alt="opencv" width="40" height="40"/>&nbsp;&nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Pytorch-svgrepo-com.svg" title="PyTorch" alt="pytorch" width="40" height="40"/> &nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Tensorflow-svgrepo-com.svg" title="TensorFlow" alt=tensorflow" width="40" height="40"/> &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" title="Docker" alt='docker' width="40" height="40"/> &nbsp;&nbsp;
 </p>
 
