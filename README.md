@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shinie Aggarwal</h1>
 <h3 align="center">Final year Computer Science student</h3>
 
+<br>
+
 - I’m currently learning **Computer Vision**
 
 - How to reach me **shinieaggarwal72@gmail.com**
+
+<br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,6 +17,8 @@
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Gmail-highres_2.png" title="Email" alt="Email" height="40" width="40" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<br>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -31,7 +38,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Tensorflow-svgrepo-com.svg" title="TensorFlow" alt=tensorflow" width="40" height="40"/> &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" title="Docker" alt='docker' width="40" height="40"/> &nbsp;&nbsp;
 </p>
-
+<br>
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinieaggarwal72&show_icons=true&locale=en&layout=compact" alt="shinieaggarwal72" /></p>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinieaggarwal72&" alt="shinieaggarwal72" /></p>-->
